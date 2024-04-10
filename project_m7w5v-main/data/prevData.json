@@ -1,0 +1,8 @@
+{
+    "income": 1000,
+    "expenseList": [],
+    "budget": {
+        "monthlyBudget": 0,
+        "typeBudgetMap": {}
+    }
+}

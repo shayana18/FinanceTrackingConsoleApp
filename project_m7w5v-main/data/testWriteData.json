@@ -1,0 +1,21 @@
+{
+    "income": 3000,
+    "expenseList": [
+        {
+            "expenseAmount": 30.2,
+            "expenseType": "FOOD",
+            "expenseName": "Breaky",
+            "expenseDate": "2024-01-01"
+        },
+        {
+            "expenseAmount": 1125.3,
+            "expenseType": "BILLS",
+            "expenseName": "rent",
+            "expenseDate": "2024-01-01"
+        }
+    ],
+    "budget": {
+        "monthlyBudget": 0,
+        "typeBudgetMap": {"FOOD": 400}
+    }
+}
